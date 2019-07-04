@@ -1,0 +1,60 @@
+html, body{
+	font-family: comic-sans;
+	padding:0;
+	margin: 0:;
+}
+header{
+	background-color: #666699;
+	padding: 40px;
+	text-align: center;
+}
+h1{
+	font-size: 90px;
+	color: white;
+}
+header img {
+	border-radius: 80px;
+	width: 200px
+}
+
+.content{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20;
+
+}
+img{
+	max-width: 100%;
+}
+p.caption{
+	font-size: 16px
+	color: grey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding:0;
+	margin: 0;
+	text-align: center;
+}
+a{
+	color:   #000000;
+	text-decoration: none;
+}
+
+footer{
+	padding: 40px 20px;
+	background-color: #bfbfbf;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+/*<header>
+		<div class="wrapper">
+		<img src="https://vignette.wikia.nocookie.net/characterprofile/images/e/e1/Izuku_Midoriya%2C_the_Successor_to_All_Might.png/revision/latest?cb=20170801171151">
+		<h1>Izuku midoriya</h1>
+	</header>*/
